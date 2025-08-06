@@ -1,4 +1,4 @@
-# 🧑‍💻 User Kundaiii - MERN Stack CRUD Application
+# 🧑‍💻 User Kundaliii - MERN Stack CRUD Application
 
 This is a full-stack **CRUD (Create, Read, Update, Delete)** web application built with the **MERN** stack (MongoDB, Express.js, React.js, and Node.js). It allows users to register, view, update, and delete user information in a beautifully styled UI.
 
