@@ -2,19 +2,16 @@
 
 This is a full-stack **CRUD (Create, Read, Update, Delete)** web application built with the **MERN** stack (MongoDB, Express.js, React.js, and Node.js). It allows users to register, view, update, and delete user information in a beautifully styled UI.
 
-## 📸 Screenshots
+##📸 Screenshots
 
-### 🖼️ Home Page
-![Home Page](<img width="1365" height="655" alt="Screenshot 2025-08-07 031213" src="https://github.com/user-attachments/assets/1b402818-76ad-46d1-907e-013f4b85d297" />
-)
+### 🖼️ Home Page  
+![Home Page](https://github.com/user-attachments/assets/1b402818-76ad-46d1-907e-013f4b85d297)
 
-### 📝 Add/Edit Form
-![Add/Edit Form](<img width="1343" height="652" alt="Screenshot 2025-08-07 031226" src="https://github.com/user-attachments/assets/46578da4-52d9-4f5b-a602-b005e59f6c5d" />
-)
+### 📝 Add/Edit Form  
+![Add/Edit Form](https://github.com/user-attachments/assets/46578da4-52d9-4f5b-a602-b005e59f6c5d)
 
-### 📋 View All Data
-![Data View](<img width="1339" height="653" alt="Screenshot 2025-08-07 031242" src="https://github.com/user-attachments/assets/71ee67e3-e432-4b25-93ae-06f001b842b9" />
-)
+### 📋 View All Data  
+![Data View](https://github.com/user-attachments/assets/71ee67e3-e432-4b25-93ae-06f001b842b9)
 
 
 
