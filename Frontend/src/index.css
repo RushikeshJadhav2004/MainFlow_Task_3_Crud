@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+body{
+    background-color: black;
+    color: white;
+}
+
+ .tdiv {
+      background: radial-gradient(ellipse at center, #1a1a2e 0%, #16213e 100%);
+    }
+
+    tr:hover {
+      transform: translateY(-4px) scale(1.01);
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+    }
